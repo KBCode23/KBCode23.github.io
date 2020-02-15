@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+html,
+body{
+  font-size: 1em;
+  background-color: #386F55;
+}
+
+h1{
+  font-family: "Arial";
+  font-size: 3em;
+  color: white;
+}
+
+input{
+  width:600px;
+  height: 40px;
+  font-size: 1.5em;
+}
+
+.button{
+  height: 50px;
+  border-radius:10px;
+  font-size: 1.5em;
+  color: white;
+  background-color: #555555;
+  border: none;
+}
+
+ol{
+  color: white;
+  font-size: 1.5em;
+  font-family: "Arial";
+}
